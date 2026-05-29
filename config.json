@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssncrypt",
+        "uuid": 12871124,
+        "checksum": "mz3pl"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
